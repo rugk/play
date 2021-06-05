@@ -17,7 +17,7 @@
     "fluent": "0.10.0",
     "fluent-syntax": "0.10.0",
     "intl-pluralrules": "^0.2.1",
-    "query-string": "^6.1.0",
+    "query-string": "^6.14.1",
     "react": "^16.3.2",
     "react-ace": "^6.3.2",
     "react-dom": "^16.3.2",
